@@ -1,8 +1,10 @@
 Upcoming
 ========
 
+* No longer truncates strings when diffing arrays in verbose mode 
 * Fixed case error in class name that triggered strictness warnings on some platforms
-* Clarify in composer that ext-tokenizer is required
+* Clarified in composer that ext-tokenizer is required
+* Supported installation with Symfony 3.0
 
 2.3.0 / 2015-09-07
 ==================
